@@ -1,3 +1,6 @@
+# Comet-AI
+![Comet-Ai](https://github.com/vikashg4/Reactjs-comet-AI/assets/130660634/4dc0a6c3-91cb-412f-b7d7-e4f2ce521e13)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
